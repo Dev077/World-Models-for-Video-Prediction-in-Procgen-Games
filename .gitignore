@@ -1,3 +1,4 @@
 venv
 procgen_data
 Data-collection/__pycache__/procgen.cpython-38.pyc
+.DS_Store
