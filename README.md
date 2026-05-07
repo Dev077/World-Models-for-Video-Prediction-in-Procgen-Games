@@ -2,7 +2,7 @@
 
 A research implementation of an IRIS-style world model for multi-step video prediction in procedurally generated game environments. Built on [IRIS](https://github.com/eloialonso/iris) and [DIAMOND](https://github.com/eloialonso/diamond) by [General Intuition](https://www.generalintuition.com), the system learns to predict future game frames from past observations and player actions, without ever seeing the test level layouts during training.
 
-The full research paper detailing our methodology, results, and analysis is available here.
+The full research paper detailing our methodology, results, and analysis is available [here](https://github.com/Dev077/World-Models-for-Video-Prediction-in-Procgen-Games/blob/main/World%20Models%20for%20Video%20Prediction%20in%20Procgen%20Games.pdf).
 
 | CoinRun | StarPilot |
 |:---:|:---:|
